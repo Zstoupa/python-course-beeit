@@ -4,6 +4,6 @@ def pozdrav(koho: str) -> None:
 def main():
   pozdrav("Pavle")
 
-if __ame__ == "__main__":
+if __name__ == "__main__":
   main()
   
